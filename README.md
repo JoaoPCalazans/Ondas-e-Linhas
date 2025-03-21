@@ -14,4 +14,7 @@ Any suggestions, claims, love/hate declarations and/or music recommendations can
 Repository still in development. He is still a child, take it easy on him.
 
 *******
+## Table of Contents
+
+*******
 ###### [Metric - Dark Saturday](https://www.youtube.com/watch?v=lVn2UM8-sKI)
