@@ -1,6 +1,6 @@
 # First Exercise List (Lista 1)
 
-The 1st exercice list to the course, about *Transient analysis of transmission lines*.
+The 1st exercise list to the course, about *Transient analysis of transmission lines*.
 Include the following:
 
 * [Enunciado_Lista_1](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Lista%201/Enunciado_Lista_1.pdf) (PDF): Statement for the exercises, 2016 version but directly correspont to whats presented in resolutons.
