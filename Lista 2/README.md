@@ -1,4 +1,4 @@
-# Second Exercise List (Lista 1)
+# Second Exercise List (Lista 2)
 
 The 2nd exercise list to the course, about *Transmission lines in steady sinusoidal state: reflection and impedance matching*.
 Include the following:
