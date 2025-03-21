@@ -1,8 +1,8 @@
 # Waves and Lines
-![](https://assets-incompliancemag-com.s3.amazonaws.com/2024/03/1701_ECE_fig1.png)
 
 >The main objective of this discipline is to study the propagation of electromagnetic waves. In unbounded media, emphasis will be placed on steady-state solutions for sinusoidal excitation. In transmission lines (TEM mode), both transient and steady-state sinusoidal behaviors will be analyzed, and problems of reflection and impedance matching will be addressed. The learning objectives of this discipline are: I. Understand the phenomenon of electromagnetic wave propagation. II. Analyze electrical circuits associated with transmission lines. III. Estimate impedances of devices and structures in transmission lines.
 
+![](https://assets-incompliancemag-com.s3.amazonaws.com/2024/03/1701_ECE_fig1.png)
 
 This repository contains a collection of projects, made for the course of `PTC3314 - Waves and Lines (Ondas e Linhas)`, in the 2024 given.
 
