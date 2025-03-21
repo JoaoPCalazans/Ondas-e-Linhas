@@ -16,5 +16,13 @@ Repository still in development. He is still a child, take it easy on him.
 *******
 ## Table of Contents
 
+* **[Lista 1](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%201):** Discipline's first list of exercises.
+
+* **[Lista 2](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%202):** Discipline's second list of exercises.
+
+* **[Ondas_Linhas](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Ondas_Linhas.pdf):** Professor Dr. *Paulo Antonio Mariotto's* Waves and Lines book.
+
+* **[abaco de smith](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/abaco%20de%20smith.pdf):** And PDF containing a Smith Chart.
+
 *******
 ###### [Metric - Dark Saturday](https://www.youtube.com/watch?v=lVn2UM8-sKI)
