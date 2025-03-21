@@ -14,7 +14,7 @@
 
 * **[Ondas_Linhas](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Ondas_Linhas.pdf):** Professor Dr. *Paulo Antonio Mariotto's* Waves and Lines book.
 
-* **[abaco de smith](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/abaco%20de%20smith.pdf):** And PDF containing a Smith Chart.
+* **[abaco de smith](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/abaco%20de%20smith.pdf):** A PDF containing a Smith Chart.
 
 *******
 
@@ -25,7 +25,7 @@ Always when possible i will try to make acessible a PDF containing its original 
 
 Any suggestions, claims, love/hate declarations and/or music recommendations can send me here: [joao.calazans@usp.br](mailto:joao.calazans@usp.br)
 
-Repository still in development. He is still a child, take it easy on him.
+Repository still in development. It is still a child, take it easy on it.
 
 *******
 
