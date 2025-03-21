@@ -7,5 +7,6 @@ Include the following:
 
 * [Lista 2](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Lista%202/Lista%202.pdf) (PDF): Proper resolutions to the exercices, as presented in the statement archive.
 
-* [Pages](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%202/Pages) (Folder): Include the originals JPGs to the paper scanning.
+* [Lista 2_photo](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/Lista%202/Lista%202_photo.pdf) (PDF): Original version of the PDF resolution, made out of direct photos uploads.
 
+* [Pages](https://github.com/JoaoPCalazans/Ondas-e-Linhas/tree/main/Lista%202/Pages) (Folder): Include the originals JPGs to the paper scanning.
