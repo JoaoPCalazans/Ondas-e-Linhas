@@ -1,5 +1,7 @@
 # Waves and Lines
 
+[//]: # "https://www.researchgate.net/profile/Smrity-Dwivedi/post/How_to_use_the_Advance_Design_System_ADS_software_to_examine_output_voltage_vs_frequency_and_efficiency_vs_frequency/attachment/652e1ad93e8c356740d4b71c/AS%3A11431281198974471%401697520339603/download/5992-0707.pdf"
+
 >The main objective of this discipline is to study the propagation of electromagnetic waves. In unbounded media, emphasis will be placed on steady-state solutions for sinusoidal excitation. In transmission lines (TEM mode), both transient and steady-state sinusoidal behaviors will be analyzed, and problems of reflection and impedance matching will be addressed. The learning objectives of this discipline are: I. Understand the phenomenon of electromagnetic wave propagation. II. Analyze electrical circuits associated with transmission lines. III. Estimate impedances of devices and structures in transmission lines.
 
 ![](https://assets-incompliancemag-com.s3.amazonaws.com/2024/03/1701_ECE_fig1.png)
