@@ -9,7 +9,7 @@ rhol=(ZL-Z0)/(ZL+Z0);
 f=100e6;
 lambda=u/f;
 l=4.4;
-Eg = 15/sqrt(2); % Vef
+Eg = 15; % Vef
 
 rhoent=rhol*exp(-1j*4*pi*l/lambda);
 Zent=Z0*(1+rhoent)/(1-rhoent);
