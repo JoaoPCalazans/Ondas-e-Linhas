@@ -13,6 +13,6 @@ Include the following:
 
 * [EC2](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/EC2/EC2.m) (.m): Complete Octave/Matlab resolution. For item (b), uses try-and-error approximation in the impedance matching line position.
 
-* [Q1](http://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/EC2/Q1.m) (.m): Octave/Matlab code to question 1. For item (b), uses exact geometric line position impedance matching.
+* [Q1](http://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/EC2/Q1.m) (.m): Octave/Matlab code to question 1. For item (b), uses exact geometric line position for impedance matching.
 
 * [Q2](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/EC2/Q2.m) (.m): Octave/Matlab code complementary to question 2.
