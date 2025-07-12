@@ -1,5 +1,4 @@
 clear
-nusp = 13835322; % Murilo Hiroaki Seko
 nusp=586;
 
 format long;
@@ -13,7 +12,7 @@ rhol=(ZL-Z0)/(ZL+Z0);
 f=100e6;
 lambda=u/f;
 l=50;
-Eg = 15*sqrt(2); % Vef
+Eg = 15; % Vef
 Rg = 75;
 
 % item a
@@ -73,7 +72,7 @@ for k=1:size(f)(2)
           BW(j) = f(k); j = j+1;
       else if (k==size(f)(2))
           BW(2)=f(k);
-          disp 'Fora da faixa pedida, aumentar a banda de frequencias (linha 52)';
+          disp 'Fora da faixa pedida, aumentar a banda de frequencias (linha 45)';
           end end
   else
       if (j==2)
