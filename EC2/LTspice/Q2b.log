@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\joaop\Documents\Poli\Ondas e Linhas\Ep2\Q2b.asc
+Start Time: Sat Sep 14 10:37:45 2024
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Per .tran options, skipping operating point for transient analysis.
+Total elapsed time: 0.830 seconds.
+
