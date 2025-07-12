@@ -18,4 +18,5 @@ Include the following:
 * [Q2](https://github.com/JoaoPCalazans/Ondas-e-Linhas/blob/main/EC2/Q2.m) (.m): Octave/Matlab code complementary to question 2.
 
 I'm not sure on what's the corrected version of code (complete or individual), so I upload both. I would try individuals first and compare outputs with outcome pdf.
-Item (b) geometric resolution was not used, since it was created after the deadline. Should be equivalentm, though.
+
+Item (b) geometric resolution was not used, since it was created after the deadline. Should be equivalent, though.
